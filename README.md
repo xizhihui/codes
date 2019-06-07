@@ -2,5 +2,28 @@
 
 My code examples in Python, R, or Javascript.
 
-* [A snake AI](snake_ai)
+### Python
+
+| Code | Description |
+|---|---|
+| [Snake AI](./Python/snake_ai) |  A simple snake AI  |
+
+### R
+
+| Code                                                         | Description                                       |
+| ------------------------------------------------------------ | ------------------------------------------------- |
+| [ChIPQC](./R/ChIPQC.R)                                       | Quality control for ChIP-seq                      |
+| [cummeRbund](./R/cummeRbund.R)                               | Visualization for Cufflinks results by CummeRbund |
+| [DEseq2](./R/DE_DEseq2.R), [edgeR](./R/DE_edgeR.R), [edge_voom](./R/DE_voom_edger_deseq.R), [edgeR_Methylation](./R/edge_R_with_methylation.R) | Differential analysis                             |
+| [PCA](./R/PCA.R)                                             | Basic principal component analysis                |
+| [TCGA_clinical](./R/TCGA_aggregate_clinical.R), [TCGA_counts](./R/TCGA_aggregate_counts.R), [RTCGA](./R/TTCGA.R) | Get data from TCGA                                |
+| [GSELink](./R/getGSELink.R), [ExprFromAffyMetrix](./R/getExprFromAffyMetrix.R) | Get data from GSE                                 |
+| [Volcano](./R/plotVolcano.R)                                 | Plot a volcano plot                               |
+| [AUC](./R/rowAUCs.R)                                         | Plot an area under the curve                      |
+
+### Javascript
+
+| Code | Description |
+| ---- | ----------- |
+|      |             |
 
