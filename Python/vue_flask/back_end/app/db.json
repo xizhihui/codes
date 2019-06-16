@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "email": "xzh@qq.com",
+            "password": "pbkdf2:sha256:150000$SZOxvSSr$04956c2f3181372f68dcca051fd12caaa25008bc675ac9d2f2ec5232fdbb9be8",
+            "username": "xzh",
+            "avatar": "https://www.gravatar.com/avatar/134b49f7a84f5b01277f4d2967b683b0?d=identicon&s=128"
+        }
+    ]
+}
