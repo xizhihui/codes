@@ -7,6 +7,7 @@ My code examples in Python, R, or Javascript.
 | Code | Description |
 |---|---|
 | [Snake AI](./Python/snake_ai) |  A simple snake AI  |
+| [Vue-Flask](./Python/Vue-Flask) | A simple front/back-end seperated app for login/register module |
 
 ### R
 

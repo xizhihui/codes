@@ -5,6 +5,12 @@
             "password": "pbkdf2:sha256:150000$SZOxvSSr$04956c2f3181372f68dcca051fd12caaa25008bc675ac9d2f2ec5232fdbb9be8",
             "username": "xzh",
             "avatar": "https://www.gravatar.com/avatar/134b49f7a84f5b01277f4d2967b683b0?d=identicon&s=128"
+        },
+        {
+            "email": "hello@qq.com",
+            "password": "pbkdf2:sha256:150000$Wx1Ts14y$9df4a8ab810c24abd87af688bed708ef51443dc7e576c375453f25ac8b23c224",
+            "username": "hello",
+            "avatar": "https://www.gravatar.com/avatar/054912a870414e041953515786cbd1e0?d=identicon&s=128"
         }
     ]
 }
