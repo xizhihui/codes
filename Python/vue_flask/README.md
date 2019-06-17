@@ -51,5 +51,5 @@ pipenv shell
 4. copy `front_end/dist/static` to `back_end/app/static`, and copy `front_end/dist/index.html` to `back_end/app/templates/index.html`
 5. run `flask run` under `back_end`, and visit `http://127.0.0.1:5000/` , you can see:
 
-![vue-flask](D:\Pipelines\github\codes\Python\vue_flask\login.gif)
+![vue-flask](./login.gif)
 
