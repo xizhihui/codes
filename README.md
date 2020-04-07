@@ -21,6 +21,7 @@ My code examples in Python, R, or Javascript.
 | [GSELink](./R/getGSELink.R), [ExprFromAffyMetrix](./R/getExprFromAffyMetrix.R) | Get data from GSE                                 |
 | [Volcano](./R/plotVolcano.R)                                 | Plot a volcano plot                               |
 | [AUC](./R/rowAUCs.R)                                         | Plot an area under the curve                      |
+| [Single Cell Batch Remove](./R/SingleCell_batch_effect_remove.R) | Methods for removing batch effect in Single Cell  |
 
 ### Javascript
 
